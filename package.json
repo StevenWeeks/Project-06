@@ -1,0 +1,27 @@
+{
+  "name": "project-06",
+  "version": "1.0.0",
+  "description": "Portfolio project",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "nodemon": "^1.18.4",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StevenWeeks/Project-06.git"
+  },
+  "author": "Steven Weeks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StevenWeeks/Project-06/issues"
+  },
+  "homepage": "https://github.com/StevenWeeks/Project-06#readme"
+}

@@ -1,0 +1,51 @@
+
+{
+"project":
+  [
+      {
+        "id": 0,
+         "project_name": "Random Quotes",
+        "description": "Project generates a random quote from an array.",
+        "technologies": ["HTML", "CSS", "Javascript"],
+        "live_link": "https://stevenweeks.github.io/Project-01/",
+        "github_link":"https://github.com/StevenWeeks/Project-01",
+        "image_urls":["/static/images/randomquote.png","/static/images/randomquote01.png", "/static/images/randomquote02.png" , "/static/images/randomquote03.png"]
+    },
+      {
+      "id": 1,
+       "project_name": "Pagination",
+       "description": "Project generates pagination for any size of students list.",
+       "technologies": ["HTML", "CSS", "Javascript"],
+       "live_link": "https://stevenweeks.github.io/Project-02/",
+       "github_link":"https://github.com/StevenWeeks/Project-02",
+       "image_urls":["/static/images/students.png","/static/images/students01.png","/static/images/students02.png","/static/images/students03.png"]
+    },
+      {
+      "id": 2,
+       "project_name": "Registration",
+       "description": "A form that has people fill out information, and only submits after all info is  valid.",
+       "technologies": ["HTML", "CSS", "Javascript", "Jquery"],
+       "live_link": "https://stevenweeks.github.io/Project-03/",
+       "github_link":"https://github.com/StevenWeeks/Project-03",
+       "image_urls":["/static/images/signup.png","/static/images/signup01.png","/static/images/signup02.png","/static/images/signup03.png"]
+    },
+      {
+      "id": 3,
+       "project_name": "OOP Game",
+       "description": "A phrase guessing game.",
+       "technologies": ["HTML", "CSS", "Javascript"],
+       "live_link": "https://stevenweeks.github.io/Project-4/",
+       "github_link":"https://github.com/StevenWeeks/Project-4",
+       "image_urls":["/static/images/phrase.png","/static/images/phrase01.png","/static/images/phrase02.png","/static/images/phrase03.png"]
+  },
+      {
+      "id": 4,
+       "project_name": "Public API Request",
+       "description": "Use a public API request to create an employee directory.",
+       "technologies": ["HTML", "CSS", "Javascript", "API"],
+       "live_link": "https://stevenweeks.github.io/Project-05/",
+       "github_link":"https://github.com/StevenWeeks/Project-05",
+       "image_urls":["/static/images/publicAPI.png","/static/images/publicAPI01.png","/static/images/publicAPI02.png","/static/images/publicAPI03.png"]
+    }
+  ]
+}

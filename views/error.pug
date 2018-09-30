@@ -1,0 +1,11 @@
+extends layout.pug
+
+block content
+
+  h1 Sorry, There Was An Error.
+    article.grid-container
+        .grid-x
+
+          h1= error.message
+            h2=  error.status
+              pre= error.stack
